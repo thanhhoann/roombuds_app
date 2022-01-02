@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "roombuds",
+    "slug": "roombuds",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "roombuds"
+}
